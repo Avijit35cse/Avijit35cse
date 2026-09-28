@@ -45,7 +45,7 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
   <img src="https://img.shields.io/badge/Email-ovicse35%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/avijit-barua-7a10691a8">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
@@ -95,24 +95,40 @@ A modern dark-themed workout library built with **Next.js, TypeScript and Tailwi
 
 ---
 
-### 📚 Book Vibe
+### 🧑‍💻 Dev-Stack
 
-A modern book browsing application built with **Next.js and React**, featuring book discovery and personal reading-list functionality.
+A modern developer-focused web application built with **React and modern frontend technologies**.
 
 **Highlights:**
 
-* 📖 Browse books
-* 📚 Manage read books
-* ❤️ Wishlist functionality
-* 🔄 React Context API
-* 📱 Responsive UI
+* 💻 Developer-focused web interface
+* 🎨 Clean and modern UI
+* 📱 Responsive design
+* ⚡ Modern frontend development
+* 🚀 Deployed on Netlify
 
-**Tech Stack:** Next.js • React • JavaScript • Tailwind CSS • DaisyUI
+**Tech Stack:** React • JavaScript • Tailwind CSS
 
-[📂 GitHub Repository](YOUR_BOOK_VIBE_REPOSITORY_URL)
+[🌐 Live Demo](https://dev-stack-avijit.netlify.app/)
 
 ---
 
 ## 💡 What I'm Learning
 
-``
+```text
+React
+  ↓
+Next.js
+  ↓
+TypeScript
+  ↓
+Advanced Frontend Development
+  ↓
+Full-Stack Development
+```
+
+---
+
+### 🚀 Code • Build • Learn • Grow
+
+**Thanks for visiting my profile!** ⭐
