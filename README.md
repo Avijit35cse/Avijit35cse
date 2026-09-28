@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Avijit Barua - Frontend Developer" width="100%">
+<img src="./banner.png" alt="Avijit Barua - Frontend Developer" width="100%" height="500">
 
 # Hi 👋, I'm Avijit Barua
 
