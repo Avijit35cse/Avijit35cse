@@ -107,19 +107,20 @@ A modern dark-themed workout library built with **Next.js, TypeScript and Tailwi
 
 ### 🧑‍💻 Dev-Stack
 
-A modern developer-focused web application built with **React and modern frontend technologies**.
+A modern and responsive developer technology stack builder built with **React, TypeScript and Tailwind CSS**.
 
 **Highlights:**
 
-* 💻 Developer-focused web interface
-* 🎨 Clean and modern UI
-* 📱 Responsive design
-* ⚡ Modern frontend development
-* 🚀 Deployed on Netlify
+* 💻 Explore different frontend, backend, database, language, styling and DevOps technologies
+* 🛠️ Build and manage your own personalized technology stack
+* ⭐ View technology descriptions, ratings and difficulty levels
+* 🔔 Toast notifications when adding or removing technologies
+* 📱 Fully responsive design
+* ⚡ Modern React-based application
 
-**Tech Stack:** React • JavaScript • Tailwind CSS
+**Tech Stack:** React • TypeScript • Tailwind CSS • DaisyUI • Vite • React Icons • React Toastify
 
-[🌐 Live Demo](https://dev-stack-avijit.netlify.app/)
+[🌐 Live Demo](https://dev-stack-avijit.netlify.app/) • [📂 GitHub Repository](https://github.com/Avijit35cse/B14-A05-DevStack)
 
 ---
 
