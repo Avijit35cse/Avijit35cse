@@ -1,16 +1,118 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Avijit35cse/Avijit35cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner.png" alt="Avijit Barua - Frontend Developer" width="100%">
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Avijit Barua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Developer | React • Next.js • TypeScript
+
+<p>
+  I enjoy building modern, responsive, and user-friendly web applications
+  with clean UI and practical functionality.
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Frontend Developer** focused on building modern web applications with React and Next.js.
+
+* 🚀 Currently building projects with **React, Next.js & TypeScript**
+* 🌱 Exploring modern frontend development and best practices
+* 💻 Building responsive and user-friendly web applications
+* 📚 Continuously improving my JavaScript and problem-solving skills
+* 🎯 Working towards becoming a stronger full-stack developer
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,git,github,vscode)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ovicse35@outlook.com">
+  <img src="https://img.shields.io/badge/Email-ovicse35%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/Avijit35cse">
+  <img src="https://img.shields.io/badge/GitHub-Avijit35cse-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Avijit35cse&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijit35cse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Avijit35cse&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ FitLog — Workout Library
+
+A modern dark-themed workout library built with **Next.js, TypeScript and Tailwind CSS**.
+
+**Highlights:**
+
+* 🏋️ Workout library with detailed exercise information
+* 📋 Add workouts to today's plan
+* 🔖 Save workouts for later
+* 💾 LocalStorage persistence
+* 🔍 Search and sorting functionality
+* 📱 Responsive design for mobile, tablet and desktop
+* 🔔 Toast notifications
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • React • LocalStorage
+
+[🌐 Live Demo](https://b14-a6-fit-log-opal-xi.vercel.app/) • [📂 GitHub Repository](https://github.com/Avijit35cse/B14-A6-Fit-Log)
+
+---
+
+### 📚 Book Vibe
+
+A modern book browsing application built with **Next.js and React**, featuring book discovery and personal reading-list functionality.
+
+**Highlights:**
+
+* 📖 Browse books
+* 📚 Manage read books
+* ❤️ Wishlist functionality
+* 🔄 React Context API
+* 📱 Responsive UI
+
+**Tech Stack:** Next.js • React • JavaScript • Tailwind CSS • DaisyUI
+
+[📂 GitHub Repository](YOUR_BOOK_VIBE_REPOSITORY_URL)
+
+---
+
+## 💡 What I'm Learning
+
+``
