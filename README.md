@@ -61,13 +61,23 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Avijit35cse&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Avijit35cse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Avijit's GitHub Stats" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijit35cse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijit35cse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Avijit's Top Languages" height="180">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Avijit35cse&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=Avijit35cse&theme=tokyonight&hide_border=true" alt="Avijit's GitHub Streak">
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ Technologies I Work With
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,git,github" alt="Technologies">
 
 </div>
 
