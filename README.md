@@ -41,10 +41,16 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts&perline=6" alt="HTML5 CSS3 JavaScript React Next.js TypeScript" />
 </p>
 
-### 🎨 Styling
+### 🎨 Styling & UI Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,daisyui&perline=6" alt="Tailwind CSS and DaisyUI" />
+  <img src="https://skillicons.dev/icons?i=tailwind&perline=4" alt="Tailwind CSS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DaisyUI-UI%20Components-1AD1A5?style=for-the-badge" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/HeroUI-React%20Components-7828C8?style=for-the-badge" alt="HeroUI" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-UI%20Components-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
 
 ### ⚙️ Backend & Authentication
