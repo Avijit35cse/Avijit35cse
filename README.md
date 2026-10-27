@@ -30,7 +30,7 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <em>Technologies I use to build modern, responsive web applications.</em>
+  <i>Technologies I use to build modern, responsive web applications.</i>
 </p>
 
 ---
@@ -38,27 +38,62 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
 ### 💻 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts&perline=6" alt="HTML5 CSS3 JavaScript React Next.js TypeScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts&theme=dark" alt="HTML5 CSS3 JavaScript React Next.js TypeScript" />
 </p>
 
-### 🎨 Styling
+---
+
+### 🎨 Styling & UI Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,daisyui&perline=6" alt="Tailwind CSS and DaisyUI" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="48" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/daisyui/1AD1A5" height="48" alt="DaisyUI" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HeroUI-7828C8?style=for-the-badge&logoColor=white" alt="HeroUI" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/shadcn%2Fui-FFFFFF?style=for-the-badge&logoColor=black" alt="shadcn/ui" />
 </p>
+
+---
 
 ### ⚙️ Backend & Authentication
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" alt="Node.js Express.js MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express.js MongoDB" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/REST_API-0078D4?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
-  <img src="https://img.shields.io/badge/Better_Auth-Authentication-6C47FF?style=for-the-badge" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
+  <img src="https://img.shields.io/badge/Better_Auth-6C47FF?style=for-the-badge&logoColor=white" alt="Better Auth" />
 </p>
 
+---
+
+### 🧰 Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" alt="Git GitHub VS Code Vercel Netlify" />
+</p>
+
+---
+
+### 🤖 AI Coding Agents & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCode-202020?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+</p>
+
+---
+
+<p align="center">
+  <i>Continuously learning and building projects with modern web technologies. 🚀</i>
+</p>
 ### 🧰 Tools & Workflow
 
 <p align="center">
