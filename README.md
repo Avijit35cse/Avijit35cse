@@ -71,14 +71,6 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
 
 ---
 
-### 🧰 Tools & Workflow
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" alt="Git GitHub VS Code Vercel Netlify" />
-</p>
-
----
-
 ### 🤖 AI Coding Agents & Tools
 
 <p align="center">
@@ -87,29 +79,6 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
   <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
   &nbsp;
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-</p>
-
----
-
-<p align="center">
-  <i>Continuously learning and building projects with modern web technologies. 🚀</i>
-</p>
-### 🧰 Tools & Workflow
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&perline=5" alt="Git GitHub Visual Studio Code Vercel Netlify" />
-</p>
-
----
-
-<p align="center">
-  <em>Continuously learning and building projects with modern web technologies. 🚀</em>
-</p>
-
-### 🧰 Tools & Workflow
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" alt="Developer Tools" />
 </p>
 
 ---
