@@ -38,35 +38,43 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
 ### 💻 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts&perline=6" alt="HTML5 CSS3 JavaScript React Next.js TypeScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts&theme=dark" alt="Frontend Technologies" />
 </p>
 
 ### 🎨 Styling & UI Libraries
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="50" alt="Tailwind CSS" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://cdn.simpleicons.org/daisyui/1AD1A5" height="50" alt="DaisyUI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/heroui/7828C8" height="50" alt="HeroUI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" height="50" alt="shadcn/ui" />
-</p>
-
-<p align="center">
-  <sub>Tailwind CSS • DaisyUI • HeroUI • shadcn/ui</sub>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HeroUI-7828C8?style=for-the-badge&logoColor=white" height="28" alt="HeroUI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logoColor=white" height="28" alt="shadcn/ui" />
 </p>
 
 ### ⚙️ Backend & Authentication
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" alt="Node.js Express.js MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_API-0078D4?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
-  <img src="https://img.shields.io/badge/Better_Auth-Authentication-6C47FF?style=for-the-badge" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/REST_API-0088FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-333333?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Better_Auth-333333?style=for-the-badge&logoColor=white" alt="Better Auth" />
+</p>
+
+### 🧰 Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" alt="Developer Tools" />
+</p>
+
+---
+
+<p align="center">
+  <i>Continuously learning and building projects with modern web technologies. 🚀</i>
 </p>
 
 ### 🧰 Tools & Workflow
