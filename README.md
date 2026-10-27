@@ -29,11 +29,47 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
+<p align="center">
+  <em>Technologies I use to build modern, responsive web applications.</em>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,git,github,vscode)](https://skillicons.dev)
+---
 
-</div>
+### 💻 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts&perline=6" alt="HTML5 CSS3 JavaScript React Next.js TypeScript" />
+</p>
+
+### 🎨 Styling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,daisyui&perline=6" alt="Tailwind CSS and DaisyUI" />
+</p>
+
+### ⚙️ Backend & Authentication
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" alt="Node.js Express.js MongoDB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-0078D4?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
+  <img src="https://img.shields.io/badge/Better_Auth-Authentication-6C47FF?style=for-the-badge" alt="Better Auth" />
+</p>
+
+### 🧰 Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&perline=5" alt="Git GitHub Visual Studio Code Vercel Netlify" />
+</p>
+
+---
+
+<p align="center">
+  <em>Continuously learning and building projects with modern web technologies. 🚀</em>
+</p>
 
 ---
 
