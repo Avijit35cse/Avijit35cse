@@ -44,13 +44,17 @@ I'm a **Frontend Developer** focused on building modern web applications with Re
 ### 🎨 Styling & UI Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind&perline=4" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="50" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/daisyui/1AD1A5" height="50" alt="DaisyUI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/heroui/7828C8" height="50" alt="HeroUI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" height="50" alt="shadcn/ui" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DaisyUI-UI%20Components-1AD1A5?style=for-the-badge" alt="DaisyUI" />
-  <img src="https://img.shields.io/badge/HeroUI-React%20Components-7828C8?style=for-the-badge" alt="HeroUI" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-UI%20Components-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <sub>Tailwind CSS • DaisyUI • HeroUI • shadcn/ui</sub>
 </p>
 
 ### ⚙️ Backend & Authentication
